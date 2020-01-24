@@ -1,6 +1,8 @@
 # heart
 
-Nano driven ambient light-thingy using NeoPixels.
+WS2812B leds driven by an Arduino Nano, programmed with a few modes like heartbeat & colour wheel.
+
+![](https://ftp.cass.si/01=1a1a33.jpg)
 
 ## BOM
 
@@ -21,8 +23,3 @@ Nano driven ambient light-thingy using NeoPixels.
 * 2x 6x6x6mm SPST push switch
 * 1x SPDT slide switch
 * 2x 4.7k resistor
-* 1x 18k resistor
-* 1x 1M resistor
-* 18x 1206 LED 1/2 Blue 1/2 Pink
-* 1x M95512 EEPROM
-* 1x 12 position 2x6 card edge connector
