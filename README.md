@@ -1,8 +1,10 @@
 # heart
 
+X-mas present for someone dear,   
 WS2812B leds driven by an Arduino Nano, programmed with a few modes like heartbeat & colour wheel.
 
-![](https://ftp.cass.si/01=1a1a33.jpeg)
+<img src="https://ftp.cass.si/01=1a1a33.jpeg" width="500">
+
 
 ## BOM
 
@@ -23,3 +25,4 @@ WS2812B leds driven by an Arduino Nano, programmed with a few modes like heartbe
 * 2x 6x6x6mm SPST push switch
 * 1x SPDT slide switch
 * 2x 4.7k resistor
+* like an assload of 1mm diameter brass rod
