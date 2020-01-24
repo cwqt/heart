@@ -2,7 +2,7 @@
 
 WS2812B leds driven by an Arduino Nano, programmed with a few modes like heartbeat & colour wheel.
 
-![](https://ftp.cass.si/01=1a1a33.jpg)
+![](https://ftp.cass.si/01=1a1a33.jpeg)
 
 ## BOM
 
